@@ -1,1 +1,1 @@
-Task 0.Where am I?
+A repository for shell basics project
